@@ -153,6 +153,12 @@ The cleaned dataset was loaded into MySQL Workbench to:
 
 ---
 
+## Dashboard Preview
+
+![Amazon Electronics Analytics Dashboard](screenshots/dashboard.png)
+
+---
+
 ## Power BI: Dashboard Development
 
 The validated dataset was imported into Power BI Desktop, where Power Query was used for final transformations and DAX was used to build analytical measures. The dashboard includes KPIs, slicers/filters, and visualizations designed to answer the business questions outlined above.
